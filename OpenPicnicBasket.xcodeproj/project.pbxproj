@@ -12,6 +12,7 @@
 		E43F145B1C6A872A0007F261 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E43F14591C6A872A0007F261 /* Main.storyboard */; };
 		E43F145D1C6A872A0007F261 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E43F145C1C6A872A0007F261 /* Assets.xcassets */; };
 		E43F14601C6A872A0007F261 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E43F145E1C6A872A0007F261 /* LaunchScreen.storyboard */; };
+		E43F146A1C6AA33D0007F261 /* squish.caf in Resources */ = {isa = PBXBuildFile; fileRef = E43F14691C6AA33D0007F261 /* squish.caf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E43F145C1C6A872A0007F261 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E43F145F1C6A872A0007F261 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E43F14611C6A872A0007F261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E43F14691C6AA33D0007F261 /* squish.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = squish.caf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				E43F14571C6A872A0007F261 /* ViewController.swift */,
 				E43F14591C6A872A0007F261 /* Main.storyboard */,
 				E43F145C1C6A872A0007F261 /* Assets.xcassets */,
+				E43F14691C6AA33D0007F261 /* squish.caf */,
 				E43F145E1C6A872A0007F261 /* LaunchScreen.storyboard */,
 				E43F14611C6A872A0007F261 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 				E43F14601C6A872A0007F261 /* LaunchScreen.storyboard in Resources */,
 				E43F145D1C6A872A0007F261 /* Assets.xcassets in Resources */,
 				E43F145B1C6A872A0007F261 /* Main.storyboard in Resources */,
+				E43F146A1C6AA33D0007F261 /* squish.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
